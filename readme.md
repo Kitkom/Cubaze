@@ -1,6 +1,6 @@
 Cubaze
 
-A experimental game to test how people do in dealing with 3D maze with a narrowed 2D view. 
+An experimental game to test how people do in dealing with 3D maze with a narrowed 2D view. 
 And the conclusion so far is     not as good as what I expected.
 You can try it! :)
 
