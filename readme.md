@@ -8,3 +8,4 @@ Use WASD to rotate your view and arrow keys to move.
 Press right mouse button to get a free view of three layers at the same time according to your position. It provides limited help for building up 3D model in your brain. (This function is not provided in the original version)
 
 Publish Page : http://alflib.com/index.php/archives/26/
+itch.io Page : https://kitkom.itch.io/cubaze
